@@ -1,0 +1,16 @@
+/node_modules
+/.vscode
+/.vercel
+/.next
+/.turbo
+/public
+tailwind.config.js
+prettier.config.js
+postcss.config.js
+babel.config.js
+metro.config.js
+*.mjs
+index.js
+/windows
+/ios
+/android
